@@ -1,5 +1,5 @@
-Device: Asus Zenfone Max Pro M1 (X00T)
-Device maintainer: Saurabh Charde (@SaurabhCharde)
+Device: OnePlus 6 (enchilada)
+Device maintainer: coderastic (@coderastic)
 
 ::::::::::::Source Changelog.::::::::::::::
 
